@@ -9,7 +9,7 @@ object Dependencies {
 
     val fs2 = "3.0.4"
     val catsEffect = "3.1.1"
-    val ceMunit = "1.0.3"
+    val ceMunit = "1.0.5"
 
     val sbtProtoc = "1.0.4"
 
